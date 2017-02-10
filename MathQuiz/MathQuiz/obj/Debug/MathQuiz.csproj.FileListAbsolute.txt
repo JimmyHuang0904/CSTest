@@ -1,0 +1,9 @@
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojResolveAssemblyReference.cache
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.Cache
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+c:\users\yiheng1\documents\visual studio 2012\Projects\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
